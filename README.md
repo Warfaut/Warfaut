@@ -15,7 +15,7 @@ I use this GitHub as a space to build and share my work in:
 ## 🚀 Current Focus
 
 - Building a **public investment blog** here on GitHub  
-- Practicing valuation (Freedom24-style company breakdowns)  
+- Practicing valuation  
 - Researching **TMT, fintech, and consumer markets**  
 - Improving skills in **Python, Excel modeling, and visualization**  
 
@@ -24,7 +24,7 @@ I use this GitHub as a space to build and share my work in:
 ## 🧰 Tech & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,git,github,sqlite,vscode,excel,powerbi" />
+  <img src="https://skillicons.dev/icons?i=python,r,git,github,excel,powerbi" />
 </p>
 
 ---
